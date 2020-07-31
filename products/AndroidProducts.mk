@@ -23,6 +23,7 @@ PRODUCT_MAKEFILES += \
     $(LOCAL_DIR)/davinci/pa_davinci.mk \
     $(LOCAL_DIR)/dipper/pa_dipper.mk \
     $(LOCAL_DIR)/equuleus/pa_equuleus.mk \
+    $(LOCAL_DIR)/garlic/pa_garlic.mk \
     $(LOCAL_DIR)/ginkgo/pa_ginkgo.mk \
     $(LOCAL_DIR)/hlte/pa_hlte.mk \
     $(LOCAL_DIR)/hltechn/pa_hltechn.mk \
@@ -60,6 +61,7 @@ COMMON_LUNCH_CHOICES += \
     pa_davinci-userdebug \
     pa_dipper-userdebug \
     pa_equuleus-userdebug \
+    pa_garlic-userdebug \
     pa_ginkgo-userdebug \
     pa_hlte-userdebug \
     pa_hltechn-userdebug \
